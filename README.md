@@ -1,2 +1,3 @@
 # migration-test-alpha
-Per-repo migration test fixture
+
+Fixture for per-repo GEI migration testing.
